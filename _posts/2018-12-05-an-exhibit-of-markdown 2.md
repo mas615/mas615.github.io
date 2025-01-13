@@ -35,5 +35,6 @@ curl http://192.168.50.16/cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 2. 2. Grafana는 VM #2의 포트 3000에서 실행 중입니다. 실행 중인 버전은 이전 섹션과 동일한 디렉토리 트래버설 취약성에 취약합니다. 성공적인 디렉토리 트래버설 공격을 수행하는 데 URL 인코딩이 필요하지 않지만, **/etc/passwd** 의 내용을 표시하기 위해 요청의 다른 문자를 URL 인코딩하는 것을 실험해 보세요 . URL 인코딩을 활용한 작동 요청이 있으면 **/opt/install.txt** 의 내용을 표시하여 플래그를 얻으세요 .
 	1. 파이썬 스크립트가있다.
 		1. https://www.exploit-db.com/exploits/50581
-	2. 
+	2. ![](assets/images/posts/2018-12-05-an-exhibit-of-markdown%202/5fcd1ce9b43a62153c41b11bf4e3780b_MD5.jpeg)
+	3. 위 스크립트는 
 
