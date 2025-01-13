@@ -20,3 +20,4 @@ tags: jekyll theme yat
 top: 1
 sidebar: []
 ---
+<% await tp.file.move("/_posts/" + tp.date.now() + "-" + "NewPost") %>
