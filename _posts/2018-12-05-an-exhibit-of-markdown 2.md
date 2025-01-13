@@ -49,3 +49,6 @@ curl http://192.168.50.16/cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 4. PHP래퍼 사용법 살펴보기.
 5. RFI(원격 파일 포함) 공격을 수행하는 방법을 알아보세요.
 
+## 9.2.1. Local File Inclusion (LFI)
+로컬파일 인클루전은 디렉토리 트레버셜과 비슷하지만 해당 파일에 접근시 안에 있는 code가 ㅅ
+
