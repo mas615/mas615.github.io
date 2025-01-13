@@ -40,5 +40,6 @@ curl http://192.168.50.16/cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 	4. 주의할점은 host명에 http://를 꼭 붙어야한다.
 	5. 하지만 문제에서는 URL인코딩을 해서 해보라고 하니 해보자.![](assets/images/posts/2018-12-05-an-exhibit-of-markdown%202/9cfa836d421c3b93d053f369d090a8f8_MD5.jpeg)
 	6. 아주 잘된다.
-	7. 위와 같은 방법으로  **/opt/install.txt** 도 
+	7. 위와 같은 방법으로  **/opt/install.txt** 도 탐색이 가능하고, 그안에 플래그가 있다.
+
 
