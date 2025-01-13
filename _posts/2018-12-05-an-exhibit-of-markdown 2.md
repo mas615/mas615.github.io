@@ -19,6 +19,9 @@ This note demonstrates some of what [Markdown][1] is capable of doing.
 [Open: Pasted image 20250113172757.png](assets/images/posts/2018-12-05-an-exhibit-of-markdown%202/7e88a2c0f8963cfcd4f1f4c7ae9ea7eb_MD5.jpeg)
 ![](assets/images/posts/2018-12-05-an-exhibit-of-markdown%202/7e88a2c0f8963cfcd4f1f4c7ae9ea7eb_MD5.jpeg)
 
+
+[Open: Pasted image 20250113172849.png](assets/images/posts/2018-12-05-an-exhibit-of-markdown%202/7e88a2c0f8963cfcd4f1f4c7ae9ea7eb_MD5.jpeg)
+![](assets/images/posts/2018-12-05-an-exhibit-of-markdown%202/7e88a2c0f8963cfcd4f1f4c7ae9ea7eb_MD5.jpeg)
 ## Basic formatting
 
 Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
