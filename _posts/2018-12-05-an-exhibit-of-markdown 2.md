@@ -16,6 +16,9 @@ This note demonstrates some of what [Markdown][1] is capable of doing.
 
 *Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 제자가 이제 첫 그 뭐냐 개업식 한다는데. 딱 이거만 좀 지켜보고 가세요!!
+
+
+
 [Open: Pasted image 20250113172757.png](assets/images/posts/2018-12-05-an-exhibit-of-markdown%202/7e88a2c0f8963cfcd4f1f4c7ae9ea7eb_MD5.jpeg)
 ![](assets/images/posts/2018-12-05-an-exhibit-of-markdown%202/7e88a2c0f8963cfcd4f1f4c7ae9ea7eb_MD5.jpeg)
 
