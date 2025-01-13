@@ -15,7 +15,7 @@ This note demonstrates some of what [Markdown][1] is capable of doing.
 
 
 *Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
-제자가 이제 첫 그 뭐냐 개업식 한다는데. 딱 이거만 좀 지켜보고 가세요!
+제자가 이제 첫 그 뭐냐 개업식 한다는데. 딱 이거만 좀 지켜보고 가세요!!
 
 ## Basic formatting
 
