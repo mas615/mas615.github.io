@@ -12,3 +12,6 @@ Gemfile.lock
 
 .trash/
 .DS_Store
+
+#템플릿 폴더
+.templates
