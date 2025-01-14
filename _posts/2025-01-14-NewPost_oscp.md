@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[oscp] 9.2.1. Local File Inclusion (LFI)"
-subtitle: A awesome static site generator.
+subtitle: 로컬 파일 인클루전
 author: 마준영
 categories: etc
 tags: 
