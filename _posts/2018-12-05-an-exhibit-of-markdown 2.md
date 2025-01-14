@@ -1,8 +1,8 @@
 ---
 layout: post
-title: An exhibit of Markdown2
-subtitle: Each post also has a subtitle
-categories: markdown
+title: 9.1.2. Identifying and Exploiting Directory Traversals
+subtitle: 디렉토리 트레버셜
+categories: oscp
 tags:
   - example
   - markdown
