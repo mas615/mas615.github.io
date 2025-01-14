@@ -7,4 +7,4 @@ categories: etc
 tags: 
 top: 0
 ---
-<% await tp.file.move("/_staging/" + tp.date.now() + "-" + "NewPost") %>
+<% await tp.file.move("/staging/" + tp.date.now() + "-" + "NewPost") %>
