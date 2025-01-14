@@ -7,7 +7,7 @@ tags:
   - example
   - markdown
 ---
-
+결
 #### 9.1.2. Identifying and Exploiting Directory Traversals
 
 1. 옵시디언을 어떻게 쓰는줄 몰라서 일단 원래있던 게시물을 수정해본다.
