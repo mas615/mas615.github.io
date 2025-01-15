@@ -1,8 +1,14 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
+title: 옵시디언 및 마크다운 언어 테스트
+subtitle: 마크다운은 과연 어떤 언어일까.
 author: 마준영
 categories: etc
 tags:
 ---
+글을 작성하기 전에 마크다운을 먼저 공부해야겠다.
+# 대 제목
+## 중제목
+### 소제목
+#### 어디까지가나보자
+##### 그냥 무한대로 가나보다
