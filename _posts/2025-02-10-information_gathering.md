@@ -132,3 +132,11 @@ Whois 조회 예제
 kali@kali:~$ whois megacorpone.com -h 192.168.50.251
 ```
 
+
+
+
+## 오늘의 명령어
+1. whois 도메인명 -h 192.168.50.251
+```bash
+kali@kali:~$ whois megacorpone.com -h 192.168.50.251
+```
