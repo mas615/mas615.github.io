@@ -172,7 +172,28 @@ Whois 조회 결과에서 **유용한 정보**를 찾을 수 있습니다:
         → 네임 서버는 DNS 구성의 핵심 요소이므로 기록해 두어야 합니다.
 
 #### IP주소로 Whois 조회 (Reverse Lookup)
-만약 특정 IP 주소가 주어진다면 whois를 활용하여 해당 IP의 소유자 및 호스팅 서비스 제공자를 확인 할 수 이
+만약 특정 IP 주소가 주어진다면 whois를 활용하여 해당 IP의 소유자 및 호스팅 서비스 제공자를 확인 할 수 있습니다.
+
+```bash
+kali@kali:~$ whois 38.100.193.70 -h 192.168.50.251
+```
+
+#### 출력 예시
+```yaml
+NetRange:       38.0.0.0 - 38.255.255.255
+CIDR:           38.0.0.0/8
+NetName:        COGENT-A
+...
+OrgName:        PSINet, Inc.
+OrgId:          PSI
+Address:        2450 N Street NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20037
+Country:        US
+Updated:        2015-06-04
+```
+
 
 # 오늘의 명령어
 3. whois 도메인명 -h 192.168.50.251
