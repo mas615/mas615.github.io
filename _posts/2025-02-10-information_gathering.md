@@ -3,7 +3,7 @@ layout: post
 title: 6. 정보수집
 subtitle: Information Gathering
 author: 마준영
-categories: etc
+categories: oscp
 tags:
   - oscp
 ---
@@ -84,6 +84,7 @@ tags:
 - 두 가지 패시브 정보 수집 접근법 이해하기
 - 오픈소스 인텔리전스(OSINT)에 대해 배우기
 - 웹 서버 및 DNS 패시브 정보 수집 이해하기
+
 ### **패시브 정보 수집(Passive Information Gathering)이란?**
 
 패시브 정보 수집은 **오픈소스 인텔리전스(Open-source Intelligence, OSINT)**라고도 불리며, 특정 대상(Target)에 대한 공개적으로 이용 가능한 정보를 수집하는 과정입니다.  
