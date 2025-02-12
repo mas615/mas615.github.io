@@ -77,3 +77,4 @@ tags:
 
 본 모듈에서는 **수동적 정찰(Passive Reconnaissance)** 부터 시작하여, 이후 **목표 시스템과 상호작용하며 정보를 수집하는 능동적 정찰(Active Reconnaissance)** 방법까지 학습하게 됩니다.
 
+## 6.2. 
