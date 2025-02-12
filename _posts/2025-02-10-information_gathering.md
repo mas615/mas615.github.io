@@ -126,6 +126,9 @@ tags:
 
 > 대부분의 Whois 정보는 **공개적(public)**으로 제공되지만, 일부 도메인 등록 기관은 사생활 보호 기능을 제공하며, 이를 이용할 경우 Whois 정보가 감춰질 수 있습니다.
 
+Whois 조회 예제
+아래 명령어를 통해 megacorpone.com 도메인의 정보를 조회하는 방법을 보여줍니다.
 ```bash
+kali@kali:~$ whois megacorpone.com -h 192.168.50.251
 ```
 
