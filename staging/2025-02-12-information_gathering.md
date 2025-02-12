@@ -47,4 +47,8 @@ tags:
 - **보고서 작성 및 분석(Reporting/Analysis)**
 - **교훈 도출 및 보완 조치(Lessons Learned/Remediation)**
 
+본 모듈에서는 **범위 정의(Scoping)를 간단히 다룬 후, 정보 수집(Information Gathering)에 집중**할 것입니다. 나머지 단계에 대한 내용은 이후 과정에서 다룰 예정입니다.
+
+
+
 
