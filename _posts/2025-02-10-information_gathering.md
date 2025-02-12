@@ -132,11 +132,47 @@ Whois 조회 예제
 kali@kali:~$ whois megacorpone.com -h 192.168.50.251
 ```
 
+출력 예시
+```yaml
+Domain Name: MEGACORPONE.COM
+Registry Domain ID: 1775445745_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net
+Updated Date: 2019-01-01T09:45:03Z
+Creation Date: 2013-01-22T23:01:00Z
+Registry Expiry Date: 2023-01-22T23:01:00Z
+...
+Registrant Name: Alan Grofield
+Registrant Organization: MegaCorpOne
+Registrant Street: 2 Old Mill St
+Registrant City: Rachel
+Registrant State/Province: Nevada
+Registrant Postal Code: 89001
+Registrant Country: US
+Registrant Phone: +1.9038836342
+...
+Name Server: NS1.MEGACORPONE.COM
+Name Server: NS2.MEGACORPONE.COM
+Name Server: NS3.MEGACORPONE.COM
+```
 
+### **Whois 조회를 통해 얻은 정보**
 
+Whois 조회 결과에서 **유용한 정보**를 찾을 수 있습니다:
+
+1. **도메인 등록자 정보**
+    - **이름**: Alan Grofield
+    - **소속 조직**: MegaCorpOne
+    - **역할**: Megacorp One의 **IT 및 보안 디렉터**  
+        → 이 정보는 보안 테스트 또는 공격을 수행하는 데 있어 유용할 수 있습니다.
+2. **네임 서버 정보**    
+    - **NS1.MEGACORPONE.COM**
+    - **NS2.MEGACORPONE.COM**
+    - **NS3.MEGACORPONE.COM**  
+        → 네임 서버는 DNS 구성의 핵심 요소이므로 기록해 두어야 합니다.
 
 # 오늘의 명령어
-1. whois 도메인명 -h 192.168.50.251
+3. whois 도메인명 -h 192.168.50.251
 	1. -h 192.168.50.251는 지정하지 않으면 자동으로 whois서버를 설정함, 하지만 특정 whois서버를 지정하고 싶을때 -h 옵션 사용
 ```bash
 kali@kali:~$ whois megacorpone.com -h 192.168.50.251
