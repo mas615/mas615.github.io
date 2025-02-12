@@ -126,13 +126,13 @@ tags:
 
 > 대부분의 Whois 정보는 **공개적(public)**으로 제공되지만, 일부 도메인 등록 기관은 사생활 보호 기능을 제공하며, 이를 이용할 경우 Whois 정보가 감춰질 수 있습니다.
 
-Whois 조회 예제
+#### Whois 조회 예제
 아래 명령어를 통해 megacorpone.com 도메인의 정보를 조회하는 방법을 보여줍니다.
 ```bash
 kali@kali:~$ whois megacorpone.com -h 192.168.50.251
 ```
 
-출력 예시
+#### 출력 예시
 ```yaml
 Domain Name: MEGACORPONE.COM
 Registry Domain ID: 1775445745_DOMAIN_COM-VRSN
@@ -171,7 +171,8 @@ Whois 조회 결과에서 **유용한 정보**를 찾을 수 있습니다:
     - **NS3.MEGACORPONE.COM**  
         → 네임 서버는 DNS 구성의 핵심 요소이므로 기록해 두어야 합니다.
 
-
+#### IP주소로 Whois 조회 (Reverse Lookup)
+만약 특정 IP 주소가 주어진다면 whois를 활용하여 해당 IP의 소유자 및 호스팅 서비스 제공자를 확인 할 수 이
 
 # 오늘의 명령어
 3. whois 도메인명 -h 192.168.50.251
