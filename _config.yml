@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MANIVERS
+title: MANIVERSE
 email: akwns615@gmail.com
 author: https://github.com/mas615
 
